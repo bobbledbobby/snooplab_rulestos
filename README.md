@@ -93,12 +93,22 @@ Spam mentioning, spam content, offensive language (swearing), insults, slurs, te
 
 ## Extra Rules
 *These rules are rules that may seem kinda weird outside of Snooplab but in Snooplab, these are considered normal rules.*
+
 Do not find loopholes in rules. Finding loopholes in rules will just give you punishments just as if you broke a rule without loopholing anything.
+
 Do not ghost ping. Ghost pinging means that you ping someone and edit or delete your message & remove the ping. This action is forbidden. If you make a mistake and didn’t mean to ping, just apologize but do not remove the ping.
+
 The rules 1, 2, 3.2 7, 9.4, 6.3 are expected to be followed at all times, even when you are outside of Snooplab. If you break these rules, even outside of Snooplab, you might still face punishment.
+
 We reserve all rights to report any content sent (even if it was deleted/blocked by our AutoMod) to Discord Staff
+
 Do not spam, this includes sending or pinging people repeatedly. Headings (markdown), z̷̡͎̦̥͕͇͎̙͍͙̠̟̫͙͘͝͝ͅả̵̛̘͙͐͊̈̎̓̊̽̃́̎̌̕̚̚ͅl̷̨̧̬͎̳̣̠̭̲̱̒͛̈́͗͐̈́́̐̅͑̋͝g̵̨̰̓̓ó̶̧͖͖͙̙̭͕͓̟̟̯̪̺̫̰̍͆̀̄̿́͆̕͝ or weird fonts are also prohibited.
+
 Don’t use “I forgot to read the rules”, “I didn’t read the rules” as an excuse to break rules. Everyone in the server is required to follow rules.
+
 Don’t be annoying. If people are telling you to stop doing something, stop doing it.
+
 English only. Most Staff in Snooplab speak English so we can’t take much action if you say something that goes against our rules in other languages. Please use other servers or translating services.
+
 Staff has final say. If you believe you are getting warned for anything that isn’t a rule, please refer to rule 5 or contact someone with the @DM for In-Server-Appeals role.
+
