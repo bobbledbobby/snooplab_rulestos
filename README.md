@@ -1,7 +1,16 @@
-# Snoopy's Labatory's Guidelines & Terms Of Service
+# Snooplab's Guidelines & Terms Of Service
+
+## Bots: Terms Of Service
+
+I have the rights to refuse to make you bots if:
+  * Your bot includes any fo the following content that is stated below, including
+  * NSFW, sexually explicit content/Nudity
+  * Sexually suggestive content/cropped, blurred content revolving around this nature
+  * Gore
 
 
-## Community Guidelines
+## Server: Community Guidelines
+_These are the Community Guidelines or, as most people call rules of the "Snoopy's Labatory", "Snooplab" for short (which is the support server for the bots that BotGhost and I made_
 
 ### 1. Be respectful towards others. 
 
