@@ -2,11 +2,23 @@
 
 ## Bots: Terms Of Service
 
-I have the rights to refuse to make you bots if:
+* By using my services, you agree that you are at least over the legal age to use Discord in your country (click [here](https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday) for more info).
+* I have the rights to refuse to make you bots, cut all ties by blocking you if:
   * Your bot includes any fo the following content that is stated below, including
-  * NSFW, sexually explicit content/Nudity
-  * Sexually suggestive content/cropped, blurred content revolving around this nature
-  * Gore
+    * NSFW, sexually explicit content/Nudity
+    * Sexually suggestive content/cropped, blurred content revolving around this nature
+    * Gore/NSFL
+    * Content revolving around this nature
+* The bot that the server will be in, the party that will ask me to make the bot must:
+   * Not include any:
+       * Slurs
+       * Major Bad Words
+       * Insults/Rude stuff
+       * Words revolving around this nature
+*  Do not share private information, including emails, passwords in the proccess of the bot-making, as my account could get hacked, deleted or anything can happen, even with 2FA.
+* Your bot token is **required** if you chose to make the bot. You can delete the message with the token after, however the bot token is required.
+* When you ask me to put anything in the bot, you still own the content, however you give Discord (and me) a license when you send it to me in DMs. See more [here](https://discord.com/terms#5).
+* I will be using BotGhost. If anything happens to the bot, I am not responsible for any damage caused to your server or account
 
 
 ## Server: Community Guidelines
