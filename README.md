@@ -33,13 +33,13 @@ Offensive language includes but is not limited to words and terms that may break
 Content blocked by our AutoMod:
 Spam mentioning, spam content, offensive language (swearing), insults, slurs, terms that refer to explicit behavior/activity, invite links, anti staff ping, links
  
-Do not use alternative (alt) accounts in a deceptive way:
+### 4. Do not use alternative (alt) accounts in a deceptive way:
 
 4.1. Don’t use alt accounts to give yourself a higher chance to win giveaways.
 
 4.2. Don’t use alt accounts to bypass another punishment given to an another account.
 
-You may not advertise on the server.
+### 5. You may not advertise on the server.
 
 5.1. Advertising your social media or Discord server is prohibited. You may advertise in #self-advertising if you meet requirements.
 
@@ -49,14 +49,15 @@ You may not advertise on the server.
 
 5.4. Do not tell people where they could find something. For example, if user A is asking for your social media on the server, DM it to them. If you say “it’s on my profile” or “search for () on google”, you are advertising without user B’s agreement.
 
-Don’t be annoying in Voice Channels
+### 6. Don’t be annoying in Voice Channels
 6.1. Don’t earr*pe or scream. This means screaming or putting on really loud noises to annoy people
 
 6.2. Do not use the Soundboard in any way that could break the rules or break rule 6.1.
 
 6.3. Do not record others inside VCs as it could be an invasion of privacy. Ask everyone in the VC if you can record it first.
 
-Inappropriate Content outside of age-restricted channels is strictly prohibited.
+### 7. Inappropriate Content outside of age-restricted channels is strictly prohibited.
+
 7.1. Don’t talk about it. This is a topic on the server that should be avoided at all times. If you have concerns about this, DM a staff member with the @nsfw reports role.
 
 7.2. Don’t send NSFL/gore/illegal content on the server. No one wants to see that.
@@ -69,7 +70,7 @@ Inappropriate Content outside of age-restricted channels is strictly prohibited.
 
 7.6. Do not flirt/date/be horny with people on the server. Sending virtual hugs is allowed though.
 
-Do not bypass AutoMod.
+### 8. Do not bypass AutoMod.
  
 8.1. Bypassing AutoMod by using lookalikes, spaces are prohibited.
 
@@ -78,10 +79,7 @@ Do not bypass AutoMod.
 8.3. Don’t misuse spoilers. This means using spoilers to make others think you are breaking rules. An example of this can be frick.
 8.4. Don’t abuse reply pings, this means replying to someone else and saying something irrelevant to bypass the anti-ping.
 
-
-
-Don’t spam ping or be annoying.
-
+### 9. Don’t spam ping or be annoying.
 
 9.1. If there are no mods in chat, and someone is breaking rules, please ping @>modneeded. Misuse will result in a ban.
 
@@ -93,8 +91,8 @@ Don’t spam ping or be annoying.
 
 
 
-Extra Rules
-These rules are rules that may seem kinda weird outside of Snooplab but in Snooplab, these are considered normal rules.
+## Extra Rules
+*These rules are rules that may seem kinda weird outside of Snooplab but in Snooplab, these are considered normal rules.*
 Do not find loopholes in rules. Finding loopholes in rules will just give you punishments just as if you broke a rule without loopholing anything.
 Do not ghost ping. Ghost pinging means that you ping someone and edit or delete your message & remove the ping. This action is forbidden. If you make a mistake and didn’t mean to ping, just apologize but do not remove the ping.
 The rules 1, 2, 3.2 7, 9.4, 6.3 are expected to be followed at all times, even when you are outside of Snooplab. If you break these rules, even outside of Snooplab, you might still face punishment.
