@@ -1,4 +1,5 @@
 # Snooplab's Guidelines & Terms Of Service
+**_You must read this:_**
 
 ## Bots: Terms Of Service
 
