@@ -40,7 +40,7 @@ _These are the Community Guidelines or, as most people call rules of the "Snoopy
 
 1.3. Racism, sexism or LGBTQIA+-phobia will **not** be tolerated. Serious action will be taken.
 
-### 2. You must follow the Discord Community Guidelines and ToS
+### 2. You must follow the [Discord Community Guidelines](https://discord.com/guidelines) and [ToS](https://discord.com/terms).
 2.1. Do not participate in any activity that in any way breaks Discord Community Guidelines or ToS. 
 
 2.2. You must be old enough to use Discord in your country (if you are confused, click [this](https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday))
@@ -78,7 +78,7 @@ Spam mentioning, spam content, offensive language (swearing), insults, slurs, te
 
 5.4. Do not tell people where they could find something. For example, if user A is asking for your social media on the server, DM it to them. If you say “it’s on my profile” or “search for () on google”, you are advertising without user B’s agreement.
 
-### 6. Don’t be annoying in Voice Channels
+### 6. Don’t be annoying in Voice Channels, this means:
 6.1. Don’t earr*pe or scream. This means screaming or putting on really loud noises to annoy people
 
 6.2. Do not use the Soundboard in any way that could break the rules or break rule 6.1.
