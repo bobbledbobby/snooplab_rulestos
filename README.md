@@ -38,7 +38,7 @@ _These are the Community Guidelines or, as most people call rules of the "Snoopy
 
 1.2. Don’t be toxic to members. This means that bullying or harassment is prohibited. We can’t list every single way bullying can happen, just don’t be toxic. If you are being toxic, action will be taken. Hate speech is also prohibited.
 
-1.3. Don’t be sexist, racist, LBBTQIA+-phobia. Serious action will be taken.
+1.3. Racism, sexism or LGBTQIA+-phobia will **not** be tolerated. Serious action will be taken.
 
 ### 2. You must follow the Discord Community Guidelines and ToS
 2.1. Do not participate in any activity that in any way breaks Discord Community Guidelines or ToS. 
