@@ -1,8 +1,10 @@
 # Snooplab's Guidelines & Terms Of Service
 **_You must read the following:_**
+
 Last updated 31/1/2024
 
 ## Bots: Terms Of Service
+_You must read & accept the following for me to make you a bot:_
 
 * By using my services, you agree that you are at least over the legal age to use Discord in your country (click [here](https://support.discord.com/hc/en-us/articles/360040724612-Why-is-Discord-asking-for-my-birthday) for more info).
 * I have the rights to refuse to make you bots, cut all ties by blocking you if:
